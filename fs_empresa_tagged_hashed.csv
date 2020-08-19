@@ -1,0 +1,331 @@
+id_empresa,hash_empresa,cuit,telefono,email,pais,id_pais,provincia,ciudad,direccion,cp,baja,ultima_fecha_sync_db,segmento
+1,5db5b11547f4d1211cb214641003e8dc,,,,Argentina,1.0,,,,,0,2013-01-01,d
+2,1c30b9e1977a521dbea216c753f885d7,,,,Argentina,1.0,,,,,0,2013-01-01,d
+12,539d586bbb63b67b0fa061fdc6261663,,,,Argentina,1.0,,,,,0,2013-01-01,t
+13,cdddc8771f6e4b67179ff57df346cd71,,,,Argentina,1.0,,,,,0,2013-01-01,m
+14,7df8dafb9e88317f5c9c4563db20e6e9,,,,Argentina,1.0,,,,,0,2013-01-01,t
+15,ad654dde34d40e4ad93a9152173eeb56,,,,Argentina,1.0,,,,,0,2013-01-01,o
+16,9156680860350fe9293d2b8070e88530,,,,Argentina,1.0,,,,,0,2013-01-01,i
+23,bf2580da0dbd42d92c0563509763422d,,,,Argentina,1.0,,,,,0,2013-01-01,i
+24,eefa8283af5cb039013dedf35bb7f5c5,,,,Chile,3.0,,,,,0,2013-01-01,m
+25,14f814d81716d14146f7270faad4a01b,,,,Argentina,1.0,,,,,0,2013-01-01,d
+26,ba27efa960468410bcdfbd4aa5f0adf0,,,,Panama,4.0,,,,,0,2013-01-01,d
+27,48a207f3a91979ecf532170652d04745,,,,Argentina,1.0,,,,,0,2018-05-11,t
+28,a9e69d2b27a653f5fbe2cc154aad57b0,,,,Argentina,1.0,,,,,0,2013-01-01,t
+29,08d2906e7ff679e17d884803daed9128,,,,Argentina,1.0,,,,,0,2013-01-01,t
+30,9ed730aedebbbde678af58c20ef3ff66,,,,Argentina,1.0,,,,,0,2013-01-01,o
+31,1aeaa77bab7138f411e943f6b9ee3b45,,,,Argentina,1.0,,,,,0,2013-01-01,t
+32,1533311ab73c19104bf006717bab2d3b,,,,Argentina,1.0,,,,,0,2013-01-01,t
+33,fb0f94f50248afb44b57e869d1bc4375,,,,Argentina,1.0,,,,,0,2013-01-01,t
+34,f4334fdfa1c728eae375fe781e2e2d9d,,,,Argentina,1.0,,,,,0,2013-01-01,t
+35,d2a27309593a98d9689ab5224b92d020,,,,Argentina,1.0,,,,,0,2013-01-01,t
+36,e50cf2178ef5bcb22fafff615ce3045e,,,,Argentina,1.0,,,,,0,2013-01-01,t
+37,5a3abc9d8b695559c59e7717f39714b3,,,,Argentina,1.0,,,,,0,2013-01-01,a
+38,ccd45b17b72c6110f56935a258832cae,,,,Argentina,1.0,,,,,0,2013-01-01,e
+39,58fc43569d724f4320635aaeed7efaad,,,,Argentina,1.0,,,,,0,2013-01-01,i
+40,c29e9bd7a4a917eb58c1dfc9dfd8f503,,,,Argentina,1.0,,,,,0,2013-01-01,t
+41,d0836a46e2e1dcd3cde4a98aa45a5696,,,,Argentina,1.0,,,,,0,2013-01-01,t
+42,f0c4a6752bb90557de7fbee3f3a70fb9,,,,Argentina,1.0,,,,,0,2013-01-01,t
+43,1899d5678099a1705184deaa57573548,,,,Argentina,1.0,,,,,0,2013-01-01,c
+44,e6fd2306158eeb609c528abcca282c01,,,,Argentina,1.0,,,,,0,2013-01-01,c
+45,ac7ff4a311f489c5f26227807011eb4f,,,,Argentina,1.0,,,,,0,2013-01-01,e
+46,61f77253252c16d3f0a4f274639b1a8b,,,,Argentina,1.0,,,,,0,2013-01-01,d
+47,f368197a6cf45672bc09cc4f69c51e7d,,,,Argentina,1.0,,,,,0,2013-01-01,t
+48,ce896907ef849c99898b8b2043f88366,,,,Argentina,1.0,,,,,0,2013-01-01,e
+49,da1ea54f6ea2626e0654fc7651462f45,,,,Argentina,1.0,,,,,0,2013-01-01,t
+50,2a2c3919c7a4e954fa49f726e759d684,,,,Argentina,1.0,,,,,0,2013-01-01,o
+51,dd224f8ef09c0917f4c6b52c8e9b6dad,,,,Argentina,1.0,,,,,0,2013-01-01,o
+52,5b5904aaf2ea1bedb39809a00320fe1a,,,,Argentina,1.0,,,,,0,2013-01-01,t
+53,a2a92c862b6c8c65b35c73e6b56be767,,,,Argentina,1.0,,,,,1,2013-01-01,t
+54,3a34f587ecbbbc3babba1ceb12dae4dc,,,,Argentina,1.0,,,,,0,2013-01-01,t
+55,31232d6f40e151952f5caf3fc8d44129,,,,Argentina,1.0,Chaco,,,,0,2013-01-01,c
+56,953b2c9f360d3478c580343d07d6db78,,,,Argentina,1.0,,,,,0,2013-01-01,c
+57,2c25bcb8663a8fbbf3456d0b8a7f9056,,,,Argentina,1.0,,,,,0,2013-01-01,t
+58,4d4fc5122edce0ae07fcad7dab5b13e1,,,,Argentina,1.0,,,,,0,2013-01-01,t
+59,f9e53326a251b7111bb2766d4e19371b,,,,Argentina,1.0,,,,,0,2013-01-01,e
+60,bdeb9ea1bd7625e61b94a773afb3bbef,,,,Argentina,1.0,Buenos Aires,San Justo,,1765,0,2013-01-01,i
+62,ffd07b1b01dac43172ef8f04b7a33bd8,,,,Argentina,1.0,,,,,0,2013-01-01,o
+63,a329ca7c848bf44cd4f27d8d92ff3fbd,,,,Argentina,1.0,,,,,0,2013-01-01,m
+64,fc3df571661bedf996e9bf02603773f4,,,,Argentina,1.0,,,,,0,2013-01-01,t
+65,2f0b68aed9ac9cf8cf7f7cb23264120b,,,,Argentina,1.0,,,,,0,2013-01-01,t
+66,e502f7e59257efb13307f7649e019d5a,,,,Argentina,1.0,,,,,0,2013-01-01,c
+67,59cbe48354866b953ccd7b264eefc449,,,,Argentina,1.0,,,,,1,2013-01-01,c
+68,0c8b8d25713fc326ce0a06742a472ffb,,,,Argentina,1.0,,,,,0,2013-01-01,t
+69,7c4df8f6cb50526502e2abcd4a153887,,,,Argentina,1.0,,,,,0,2013-01-01,o
+70,7c4df8f6cb50526502e2abcd4a153887,,,,Argentina,1.0,,,,,1,2013-01-01,o
+71,b2a4647035d4a3427ea58e2f15dd6eb9,,,,Argentina,1.0,,,,,0,2013-01-01,i
+72,e741d0f676399f915b855b55cd586f63,,,,Argentina,1.0,,,,,0,2013-01-01,i
+73,f1f565207b37b1007ee20241154e4996,,,,Argentina,1.0,,,,,0,2013-01-01,a
+74,861d18aaf2d3e83235af2fe3a96942a5,,,,Argentina,1.0,,,,,0,2013-01-01,t
+75,04bc9fad6c6b2870036ec5e34bcfc38d,,,,Argenina,1.0,,,,,0,2013-01-01,c
+76,51bacb96c18a85215bf07981cb4753a6,,,,Argentina,1.0,,,,,0,2013-01-01,o
+77,668fd24e1dd8642fcf7490a4a15ae7a0,,,,Argentina,1.0,,,,,0,2013-01-01,t
+78,cfc2cd1f62491c785fe8a6f2b96326c8,,,,Argentina,1.0,,,,,0,2013-01-01,i
+79,7777ef784453a4292f44093aab0481ef,,,,Argentina,1.0,,,,,0,2013-01-01,c
+80,bf20f108638448af89845453ca87e1b6,,,,Argentina,1.0,,,,,0,2013-01-01,c
+81,75c08081f3a418e17a65d9fac4920c0d,,,,Argentina,1.0,,,,,0,2013-01-01,a
+82,9fa1662c5d8914c9cdd6c121d593e992,,,,Argentina,1.0,,,,,0,2013-01-01,t
+83,f2c4cf7209b76dda46a264196747c0c9,,,,Argentina,1.0,,,,,0,2013-01-01,t
+84,f073d7a8172f14e2566928329a1ff3d0,,,,Argentina,1.0,,,,,0,2013-01-01,o
+85,153ca38e27b30c0e5a0203134dbf0bf8,,,,CORDOBA,1.0,,,,,0,2013-01-01,a
+86,fcfed8e78bbd8270dcb8c2894ffed551,,,,CORDOBA,1.0,,,,,0,2013-01-01,t
+87,7757f2ae5d3157d56dd6634615f4a8e5,,,,Argentina,1.0,,,,,0,2013-01-01,t
+88,5ad0fff411a0a570540ab5367ffaddb8,,,,Argentina,1.0,,,,,0,2013-01-01,c
+89,d1c6e8f49e22f069eb9cd490ecb55a68,,,,Argentina,1.0,,,,,0,2013-01-01,c
+90,4658dc1d7c9b5f89959f7f3f415f5cdc,,,,Argentina,1.0,,,,,0,2013-01-01,o
+91,79e2754bb04c4cc6bc86227ec494225c,,,,Argentina,1.0,,,,,0,2013-01-01,a
+92,5a7c2063ca75269d60f14b86dc344cbd,,,,Argentina,1.0,,,,,0,2013-01-01,t
+93,e7d13108e4bb6d7d2e871008313c10ed,,,,Argentina,1.0,,,,,0,2013-01-01,t
+94,d2d82d5429fa59aa72dd2679e6675296,,,,Argentina,1.0,,,,,0,2013-01-01,i
+95,5b75ee18add32d2d8d0d3e2712524eba,,,,Argentina,1.0,,,,,0,2013-01-01,e
+96,f2c9645df6e8d64249a290febf711455,,,,Argentina,1.0,,,,,0,2013-01-01,a
+97,eb698f21ab957fe9d59f2a2a8d12c65c,,,,Argentina,1.0,,,,,0,2013-01-01,t
+98,bdccad37dccc9e43a90bf1dc18bbff43,,,,Argentina,1.0,,,,,0,2013-01-01,i
+99,76134441a159d16d50dc296b938c4fd4,,,,Argentina,1.0,,,,,0,2013-01-01,t
+100,bf49d8819d0bc8c1d99a6822bf0d825c,,,,Argentina,1.0,,,,,0,2013-01-01,e
+101,4e9b31130b9ae04552e5e92f5ef2432a,,,,Argentina,1.0,,,,,0,2013-01-01,t
+102,0f988ead7e2f8817f8ce33fbf8bd8ec7,,,,Argentina,1.0,,,,,0,2013-01-01,t
+103,06e834f2b50dd4747a1135fed3080de1,,,,Argentina,1.0,,,,,0,2013-01-01,d
+104,f6a7edd6b99891f1d8c9e232e248f605,,,,Argentina,1.0,,,,,0,2013-01-01,a
+105,94e9c85f25713b5d18a20221081b0233,,,,Argentina,1.0,,,,,0,2013-01-01,c
+106,f416fae1d2716435ecec8a1c801071fc,,,,Argentina,1.0,,,,,0,2013-01-01,c
+107,cbf03c012efbba25895f37d2a830359c,,,,Argentina,1.0,,,,,0,2013-01-01,t
+108,4b2c65e684091cba79d1640d2f897dfb,,,,Agentina,1.0,,,,,0,2013-01-01,a
+109,edd33afcb4502fad688e5df49179fab6,,,,Argentina,1.0,,,,,0,2013-01-01,t
+110,64e49ca386798432d5c7ac018581633f,,,,Argentina,1.0,,,,,0,2013-01-01,t
+111,c807beb04d364cb91d7a29c29c25a569,,,,Argentina,1.0,,,,,0,2013-01-01,c
+112,91484507abf33accbacb5fcfd6212d3f,,,,Argentina,1.0,,,,,0,2013-01-01,i
+113,339f25e60d32499338f49fd13e691f1e,,,,Argentina,1.0,,,,,0,2013-01-01,c
+114,2679f4b2fe4f88b3762039d1e6bb3037,,,,Argentina,1.0,,,,,0,2013-01-01,i
+115,2fa826465928b575abf56676f1d43201,,,,Argentina,1.0,,,,,0,2013-01-01,t
+116,60a46fd6ad70f7f71197032c5aeb60c9,,,,Argentina,1.0,,,,,0,2013-01-01,o
+117,b1f2214cd48df8d73ca90552c81301e8,,,,Argentina,1.0,,,,,0,2013-01-01,i
+118,1d1869fe455717d6868a4b123443da77,,,,Argentina,1.0,,,,,0,2013-01-01,e
+119,ffefa3869e21101dba14ce105df664f9,,,,Argentina,1.0,,,,,0,2013-01-01,t
+120,44d3e6e076c60ef698c799f393c7d969,,,,Argentina,1.0,,,,,0,2013-01-01,i
+121,5650ac05ce3f40eb3091669e559e29a5,,,,Argentina,1.0,,,,,0,2013-01-01,o
+122,12f0b1ed9707fd07e833da5c54743d50,,,,Argentina,1.0,,,,,0,2013-01-01,o
+123,9ec748f00ef9abcd081e1ab1c6d9b32c,,,,Argentina,1.0,,,,,0,2013-01-01,t
+124,567efe10b9eb43116c824b1b983a1472,,,,Argentina,1.0,,,,,0,2013-01-01,t
+125,affa8dfdd98684db69f13d3809843765,,,,Argentina,1.0,,,,,0,2013-01-01,t
+126,1b23665ac96a2587693eb4617987c71e,,,,Argentina,1.0,Córdoba,Villa Maria,,,0,2013-01-01,a
+127,f046297b13d68388748668ad5e7ca3dd,,,,Argentina,1.0,Santa Fe,Armstrong,,2508,0,2013-01-01,t
+128,08f776a1fd8afc24bea3d43c8f17d7b3,,,,Argentina,1.0,,,,,0,2013-01-01,t
+129,a9a7653c305c98bc98c313adcac08826,,,,Argentina,1.0,,,,,0,2013-01-01,m
+130,a4ac55008b0c7660cea7f3f166036459,,,,Argentina,1.0,,,,,0,2013-01-01,o
+131,57f1b7424962b1cda2b5c783b84e9507,,,,Argentina,1.0,,,,,0,2013-01-01,a
+132,dcc23ee5790e672f1bd82ce1a4a3ccf3,,,,Argentina,1.0,,,,,0,2013-01-01,i
+133,0c9b71f3dbfdf1707da59449732cec7b,,,,Argentina,1.0,,,,,0,2013-01-01,a
+134,8a0f3e2a8fc2f53dda922fa84aaad77a,,,,Argentina,1.0,,,,,0,2013-01-01,i
+135,cfab60527aba2af0b8233c8df6ef393e,,,,Argentina,1.0,,,,,0,2013-01-01,t
+137,c940e0b3537df60ef20dab0eee18e0ba,,,,Argentina,1.0,,,,,0,2013-01-01,t
+138,4c0e52eeb867ab50e28eaaad221bfa48,,,,Argentina,1.0,,,,,0,2013-01-01,c
+139,6445f81b2284a5922bfe4a57d7c5923a,,,,Argentina,1.0,,,,,0,2013-01-01,i
+140,09bca47f8e0d8c705a19ff0623ea374c,,,,Argentina,1.0,,,,,0,2013-01-01,t
+141,6e82c23cdd6bddad9565de628d2bda99,,,,Argentina,1.0,,,,,0,2013-01-01,i
+142,8fb4903ed9af4a1fc11be528f5ea7eb7,,,,Argentina,1.0,,,,,0,2013-01-01,c
+143,148f59ff6660726a7da7184498a888d8,,,,Argentina,1.0,,,,,0,2013-01-01,a
+144,03d5bbae15cdd352f582b7123a04521a,,,,Argentina,1.0,,,,,0,2013-01-01,o
+145,5c584869b62367b275018c819280bf02,,,,Argentina,1.0,,,,,0,2013-01-01,t
+146,f734a2c8864a183568195a6670c7a6ef,,,,Argentina,1.0,,,,,0,2013-01-01,t
+147,15c56a0b09c774db2b0aa7b8856742b7,,,,Argentina,1.0,,,,,0,2013-01-01,a
+148,8bcd64d7d0e449fe01fdbea753d06def,,,,Argentina,1.0,,,,,0,2013-01-01,t
+149,23509612fa8007e3c288c0d0fcade154,,,,Argentina,1.0,,,,,0,2013-01-01,i
+150,a842d4ed1135e693770684565d9285c2,,,,Argentina,1.0,,,,,0,2013-01-01,o
+151,9208aa889fec1fca3b4e7c8126dfd205,,,,Argentina,1.0,,,,,0,2013-01-01,t
+152,1d2321bde721c12834ca245dc403ae83,,,,Argentina,1.0,,,,,0,2013-01-01,a
+153,1b4d4e9387ac7a8c8053e3ab0eafb214,,,,Argentina,1.0,,,,,0,2013-01-01,a
+154,d108e60fac96f001304653215964379f,,,,Argentina,1.0,,,,,0,2013-01-01,i
+155,a2e68aaa5b56e784930a1ad480e13a9c,,,,Argentina,1.0,,,,,0,2013-01-01,m
+156,c1065e4669d8e1c240412143a7daccc5,,,,Argentina,1.0,,,,,0,2013-01-01,a
+157,2d6154c16167a00f68657338750b59ef,,,,Argentina,1.0,,,,,0,2013-01-01,t
+158,6b679baf289320cdb6e3795428c566cd,,,,Argentina,1.0,,,,,0,2013-01-01,t
+159,94167b9cf0e23d2c8330d97559c822de,,,,Argentina,1.0,,,,,0,2013-01-01,t
+160,005a79c2c0954a731f64720e5034a04b,,,,Argentina,1.0,,,,,0,2013-01-01,a
+161,f9ee22bea42189227f56e0dd3f95f8e9,,,,Argentina,1.0,,,,,0,2013-01-01,i
+162,a32682851f205363705740a8e3a1b52a,,,,Argentina,1.0,,,,,0,2013-01-01,a
+163,d670be281b24e4a1798d9f6cb097303d,,,,Argentina,1.0,,,,,0,2013-01-01,c
+164,c009c6ee690066804279f0e1f5e8f48a,,,,Argentina,1.0,,,,,0,2013-01-01,a
+165,11c38de9c987e4935a46fc62f0382381,,,,Argentina,1.0,,,,,0,2013-01-01,i
+166,ae71b1317d0b0d58baf64c6cc08c301c,,,,Argentina,1.0,,,,,0,2013-01-01,c
+167,e7e51e5cba0f71238e6a7b3cc2a6e324,,,,Argentina,1.0,,,,,0,2013-01-01,t
+168,1bb5879c61cba0a9f5efb97ca56caf1e,,,,Argentina,1.0,,,,,0,2013-01-01,t
+169,a0732b60687036f6b5983fd70b3ddc7c,,,,Argentina,1.0,,,,,0,2013-01-01,m
+170,415c2911c98635ab59e90f9742b237d6,,,,Argentina,1.0,,,,,0,2013-01-01,c
+171,97a8871cb57434abdf48de94393cdb1e,,,,Argentina,1.0,,,,,0,2013-01-01,c
+172,c032bfa6b914e5933fed2117f41e29c2,,,,Argentina,1.0,,,,,0,2013-01-01,t
+173,536bdf8b5c9a150defa186f6cb3db84e,,,,Argentina,1.0,,,,,0,2013-01-01,t
+174,b2d36dd757027bf87dabd96f1f5bfb65,,,,Argentina,1.0,,,,,0,2013-01-01,o
+175,1eac37cc70e47b754c4e435915d8295f,,,,Argentina,1.0,,,,,0,2013-01-01,c
+176,60b0c455d6673e48ffca2151d773e326,,,,Argentina,1.0,,,,,0,2013-01-01,c
+177,a7713c001029a0841caf4b756d16cde5,,,,Argentina,1.0,,,,,0,2013-01-01,a
+178,c39aa490c5e620037c893f18e4e413d1,,,,Argentina,1.0,,,,,0,2013-01-01,o
+179,d151937300a74e2c33dab1185ee55969,,,,Argentina,1.0,,,,,0,2013-01-01,a
+180,130cd2cfcdddf3d6c7c6ed0befb62fd3,,,,Argentina,1.0,,,,,0,2013-01-01,a
+181,f4693ba2435b14f60d8e94665c6bc7a4,,,,Argentina,1.0,,,,,0,2013-01-01,t
+182,2ef4e10f5e5c9d9636e31a3f9b22ebe0,,,,Argentina,1.0,,,,,0,2013-01-01,c
+183,b8ebfb4595cb7de2a948143acbf7ce78,,,,Argentina,1.0,,,,,0,2013-01-01,o
+184,5bd028cf44c7c0951498a092dc9cfc2f,,,,Argentina,1.0,,,,,0,2013-01-01,c
+185,af1158c14f29abdb9bfe48a81a921184,,,,Argentina,1.0,,,,,0,2013-01-01,o
+186,4f31d274c90a4ec2bb598d6aa3f44040,,,,Argentina,1.0,,,,,0,2013-01-01,a
+187,89e12cc010e6a19ff71d2e235fc301c3,,,,Argentina,1.0,,,,,0,2013-01-01,c
+190,50286b9d080a693f6c8b38114780040a,,,,Argentina,1.0,,,,,0,2013-01-01,t
+191,3208296e5d868872b0efae4a66a988a0,,,,Argentina,1.0,,,,,0,2013-01-01,t
+192,66deba4507a065ba2ed4236993bb0a2b,,,,Argentina,1.0,,,,,0,2013-01-01,t
+193,f74891d744c8a9af476c03d9daa3176a,,,,Argentina,1.0,,,,,0,2013-01-01,d
+194,304b21a08c5f876d0cea5de550521a22,,,,Argentina,1.0,,,,,0,2013-01-01,c
+195,695353be14ad259a364835101ef067ed,,,,Argentina,1.0,,,,,0,2013-01-01,c
+196,7606c3d753479f2ceb1a822b29bdd7e2,,,,Argentina,1.0,,,,,0,2013-01-01,a
+197,5c55ee1a4fab4363c6b83a270cc4128e,,,,Argentina,1.0,,,,,0,2013-01-01,t
+198,c179bcea71063be3d1650c92e8340775,,,,Argentina,1.0,,,,,0,2013-01-01,c
+199,eadc3da9a851b03438b9ca927536f1e3,,,,Argentina,1.0,,,,,0,2013-01-01,a
+200,213baae7d95026224005cc8eb44b7968,,,,Argentina,1.0,,,,,1,2013-01-01,a
+201,ea7975f79eaaff93db9250b0a8cf9ae4,,,,Argentina,1.0,,,,,0,2013-01-01,t
+202,901a0cec53a2bf53e3fc93a5e841f694,,,,Argentina,1.0,,,,,0,2013-01-01,c
+203,105dd9b6d2c7b4b3b6078f256fa46c2d,,,,Argentina,1.0,,,,,0,2013-01-01,c
+204,dc25d1c429f373afde9c00fadb5cbca5,,,,Argentina,1.0,JUJUY,MONTERRICO,,4608,0,2013-01-01,t
+205,a38f9f85b8a77e605baf6c3f25c24122,,,,Argentina,1.0,,,,,0,2013-01-01,t
+206,97c6061ae6cf038dac8826272c8cb858,,,,Argentina,1.0,,,,,0,2013-01-01,t
+207,57e370e138622857a8d407d6edc9c77c,,,,Argentina,1.0,,,,,0,2013-01-01,t
+208,13e622c5fac14e4ae16e104098828487,,,,Argentina,1.0,,,,,1,2013-01-01,c
+209,e4a1015f7723ecb68cf436b9b9ccf200,,,,Argentina,1.0,,,,,0,2013-01-01,a
+210,abfd24adfebef98d653b605aa62baf2f,,,,Argentina,1.0,,,,,0,2013-01-01,s
+211,2194475352e23f18c2a89741f6f32c1c,,,,Argentina,1.0,,,,,0,2013-01-01,e
+212,5bb65d6dd661db7ac3502bf40bbef53d,,,,Argentina,1.0,,,,,0,2013-01-01,i
+213,6c44a9495b9c9fc6024c3cbba65560db,,,,Argentina,1.0,,,,,0,2013-01-01,i
+214,65ebc643f0a1c330840fc26c7c9d4a61,,,,Argentina,1.0,,,,,0,2013-01-01,i
+215,758477d452b3157cd51287806cc3cfd7,,,,Argentina,1.0,,,,,0,2013-01-01,t
+216,7f5df1697b91b1e8c9fde4fdb13445d8,,,,Argentina,1.0,,,,,0,2013-01-01,o
+217,738a9ae60fbef16d9d76948dc200a7d0,,,,Argentina,1.0,,,,,0,2013-01-01,i
+218,9c4fe45a635a5dd760892bdc88dafc33,,,,Argentina,1.0,,,,,0,2013-01-01,i
+219,d952d23db0584ffe698d08437e6c4bd7,,,,Argentina,1.0,,,,,0,2013-01-01,i
+220,3bb52676c00deadd56a8076dcff09e2b,,,,Argentina,1.0,,,,,0,2013-01-01,i
+221,faa790408dfce4b37492b3daba2ce87e,,,,Argentina,1.0,,,,,0,2013-01-01,t
+222,7b7f5442d5de562657dbd661768dfa73,,,,Argentina,1.0,,,,,0,2013-01-01,c
+223,583742fd5098e599971bd5ca6b97f696,,,,Argentina,1.0,,,,,0,2013-01-01,t
+224,f0258b6685684c113bad94d91b8fa02a,,,,Demo,1.0,,,,,0,2013-01-01,d
+225,f3ec2e1eb2caf9ce55230d5cb8644249,,,,Uruguay,5.0,,,,,0,2013-01-01,o
+226,3b1f8dd71af87859ffab9e8c1439af04,,,,Argentina,1.0,,,,,0,2013-01-01,c
+227,366296a27512a967881b63b27519f5ed,,,,Argentina,1.0,,,,,0,2013-01-01,t
+228,f57a91c459c956e8c98a2944757df5c1,,,,Brasil,2.0,,,,,0,2013-01-01,d
+229,cb2a853f0eb52082946a476868869202,,,,Argentina,1.0,,,,,0,2013-01-01,o
+230,fc050316da3ac7259ec329cbde7e0456,,,,Argentina,1.0,,,,,0,2013-01-01,o
+231,fa858bc81571f4b272fbdf96260177a0,,,,Argentina,1.0,,,,,0,2013-01-01,c
+232,256dacef9deb480921a2a838fcf02bf9,,,,Argentina,1.0,,,,,0,2013-01-01,o
+233,2f78ff96d592684d72572cf3057d939a,,,,Argentina,1.0,,,,,0,2013-01-01,a
+234,f92647138a954cfa09a860f7ef5b3640,,,,Argentina,1.0,,,,,0,2013-01-01,c
+235,b04c7ac927ba1be26e599c7a2d4b34bf,,,,Argentina,1.0,,,,,0,2013-01-01,a
+236,62aa0565f02733f1669d39f42caac0df,,,,Argentina,1.0,,,,,0,2013-01-01,e
+237,8b4a8991a23e9c254d6f8ca79d6b11a1,,,,Argentina,1.0,,,,,0,2013-01-01,t
+238,b23495e854800f58aa4875b41d6a34b2,,,,Argentina,1.0,,,,,0,2013-01-01,t
+239,8949ea5b2d7f79832e282018236c6cd4,,,,Argentina,1.0,,,,,0,2013-01-01,t
+240,9f15402d834b6f935735e19d419a4ff0,,,,Argentina,1.0,,,,,0,2013-01-01,a
+241,6adb526c6ed44900e4b1a9cb929eaedc,,,,Argentina,1.0,,,,,0,2013-01-01,a
+242,04b3150e061d8a59b46336f1440052f2,,,,Argentina,1.0,,,,,0,2013-01-01,t
+243,36349becae2ac892527f3ea2c4aa7ca8,,,,Argentina,1.0,,,,,0,2013-01-01,t
+246,a89009cb535f74c5421b91ec204988e5,,,,Argentina,1.0,,,,,0,2013-01-01,t
+247,218df9a3b4233a59ed025fda1bb7bb69,,,,Argentina,1.0,,,,,0,2013-01-01,m
+248,a486bf7dfda57f37ce6d756e00b737f8,,,,Argentina,1.0,,,,,0,2013-01-01,i
+249,3a09fc81b91d0159e29acd8d12ce941c,,,,Argentina,1.0,,,,,0,2013-01-01,d
+250,39da6d66310ec233380147ed972e5785,,,,Argentina,1.0,,,,,0,2013-01-01,o
+251,125cec6735c2583b542d4e76b89ac73d,,,,Argentina,1.0,,,,,0,2013-01-01,a
+252,2fbcd3b4ea192d56ee224b1b952d56f3,,,,Argentina,1.0,,,,,0,2013-01-01,c
+254,c3c60301c9d72ea9ff3d8df704576876,,,,Argentina,1.0,,,,,0,2013-01-01,t
+255,f01470a48b7656ffd11e851440f6e24b,,,,Argentina,1.0,,,,,0,2013-01-01,a
+256,18f0412142721e0995e72153d9c37b5c,,,,Argentina,1.0,,,,,0,2013-01-01,c
+258,af50614a415ccf5a729db5ae4be10f86,,,,Argentina,1.0,,,,,0,2013-01-01,c
+259,3c8fe88e1e00f459c24246519e102598,,,,Argentina,1.0,,,,,0,2013-01-01,o
+260,b07bcb1d2f113bd43fc85638817fee9c,,,,Argentina,1.0,,,,,0,2013-01-01,c
+261,b2a8d240b235a9374636a30ce3de35e4,,,,Argentina,1.0,,,,,0,2013-01-01,t
+262,da882377e3149aa24392984e2f4f8bd1,,,,Argentina,1.0,,,,,0,2013-01-01,c
+264,7c9981d376f5e9a249de2f71bb2bffe4,,,,Argentina,1.0,,,,,0,2013-01-01,t
+265,bbce3638896e585983c74ef84c6d57c9,,,,Argentina,1.0,,,,,0,2013-01-01,d
+266,76796b0025e4c67c439ca556fb414365,,,,Argentina,1.0,,,,,0,2013-01-01,c
+267,8bb34b5c5b8ecf1253e15f788013fc9c,,,,Argentina,1.0,,,,,0,2013-01-01,t
+268,efb9c482890898bfd2fb6792e6f79f48,,,,Argentina,1.0,,,,,0,2013-01-01,t
+269,d83fd3e692b4915c609df37ba94bdb95,,,,Argentina,1.0,,,,,0,2013-01-01,a
+270,0a79662290381746cb3072c2ef9912e0,,,,Argentina,1.0,,,,,0,2013-01-01,t
+271,7f7a62371870fc9eec2510628d706844,,,,Argentina,1.0,,,,,0,2013-01-01,i
+272,3a5601589ba51f129d59ebbdfd3ab064,,,,Argentina,1.0,,,,,0,2013-01-01,c
+273,855bf00eb3feb4fd29e6862724e30b9a,,,,Argentina,1.0,,,,,0,2013-01-01,t
+274,59a1b8ebe4b4fcc911c1753f83ca55f7,,,,Argentina,1.0,,,,,0,2013-01-01,c
+275,0d8abde8f36ab5948e99436d4bfead30,,,,Argentina,1.0,,,,,0,2013-01-01,t
+277,8fc0164afbcd5524c5bf60d02d07cf93,,,,Argentina,1.0,,,,,0,2013-01-01,a
+1000,f52beae6b177c6a16a9ac109065169e9,,,,Argentina,1.0,Córdoba,Córdoba,,X5003FVQ,0,2013-01-31,o
+1001,c9ea275c65c6bbc5818ef81bde75912a,,,,Argentina,1.0,,,,,0,2013-01-01,o
+1002,babdd8463e6b9d98bbd814954a57b0fb,,,,Argentina,1.0,,,,,0,2013-01-01,a
+1003,b66ced5877a7e033c8ca4630a457d03c,,,,Argentina,1.0,,,,,0,2013-01-01,t
+1005,6dd805ad5621aaff7a91444d50307cb6,,,,Argentina,1.0,,,,,0,2013-01-01,o
+1006,8f4aae3d29c0dc31043a9b0f09630119,,,,Argentina,1.0,,,,,0,2013-01-01,t
+1007,2336969b7903ce6e69ec119fef77234e,,,,Argentina,1.0,,,,,0,2013-01-01,c
+1008,179d0672848ec610feebf32c9672a73f,,,,Argentina,1.0,,,,,0,2013-01-01,t
+1009,95cfecb4f0e1b76df5819856fd797488,,,,Argentina,1.0,Neuquén,,,,0,2013-01-01,o
+1010,ff79269e7e021ee9837dbbddbb198d34,,,,Argentina,1.0,,,,,0,2013-01-01,m
+1011,d51dd20ca05ffab454c79020d535e5b3,,,,Argentina,1.0,,,,,0,2013-01-01,t
+1012,76c99bd38e958576f546dcce02e97562,,,,Argentina,1.0,Buenos Aires,CABA,,,0,2013-01-01,o
+1013,ac0929d208f06bfdd278f98bcb856c7d,,,,Costa Rica,,,,,,0,2013-01-01,i
+1014,907953dcbd01ad68db1f19be286936f4,,,,Argentina,1.0,Córdoba,Córdoba,,X5003FVQ,0,2013-01-01,d
+1015,e8074cc907e6ab0147401f10c7209282,,,,,1.0,Jujuy,Salar de Cauchari,,,0,2013-01-01,o
+1016,2570618780389df32c2864ce2cbc96c5,,,,,1.0,,,,,0,2013-01-01,i
+1017,f65c0e930c809a032c6da6ac5988c372,,,,,1.0,,,,,0,2013-01-01,a
+1018,c7d4c617ae34a7bf49f2b03c481bc07f,,,,,1.0,Entre Ríos,General Galarza,,,0,2013-01-01,e
+1019,52712c7ee4f6a5960fc810769f40d488,,,,,1.0,Buenos Aires,Lobería,,,0,2013-01-01,a
+1020,3a7ddb5232d719334aebdf1609654bc2,,,,,1.0,Buenos Aires,La Plata,,,0,2013-01-01,t
+1021,9cf9e4c056a2cc7c39f5d0511c83e5b3,,,,,1.0,Buenos Aires,Saladillo,,,0,2013-01-01,c
+1022,14b60db6f8add5c07fda03aba179b1bd,,,,,1.0,Buenos Aires,Zárate,,,0,2013-01-01,i
+1023,0567cfeabcd3d85ddf134cec686af880,,,,,1.0,Neuquen,Aguada San Roque,,,0,2013-01-01,o
+1024,6874f56c7df05d317e4a4f19808cee45,,,,,1.0,Jujuy,Salar de Olaroz,,,0,2013-01-01,a
+1025,b5c70865e4b94adc087f2a19240e0229,,,,,1.0,,,,,0,2013-01-01,o
+1026,8c4d290b572028122615c7b8c10fccff,,,,,0.0,,,,,0,2013-01-01,i
+1027,54a89de984ce8f9197e22f6112026d5b,,,,,1.0,Salta,,,,0,2013-01-01,m
+1028,1862721a661578fe9815d064714ba20a,,,,,1.0,,,,,0,2013-01-01,c
+1029,a07de8fb5ae29847f6e75cea0ce647e0,,,,,0.0,,,,,0,2013-01-01,a
+1030,3a231dd50dc182e2e01ef62596575776,,,,,1.0,,,,,0,2013-01-01,t
+1031,655ab22f88c5649ece68b8f0684c36a4,,,,,1.0,Buenos Aires,Olavarría,,,0,2013-01-01,m
+1032,b0e9d809702e5d388a9394c27d6342c1,,,,,0.0,,,,,0,2013-01-01,d
+1035,0652ed787b4e6a2810ebfca29a001b5e,,,,,1.0,Chaco,Saenz Peña,,,0,2013-01-01,c
+1036,8cd2bbcd9c41ea0c3cbb3abc2e1f517f,,,,,1.0,Chaco,Villa Angela,,,0,2013-01-01,c
+1037,c9ffbecd66908f7787b90b41fc43ec9b,,,,,1.0,,,,,1,2013-01-01,o
+1038,6f314c4e1e3c0b41c3b1b89931c0cba2,,,,,1.0,,,,,0,2013-01-01,o
+1039,82e74016387ebac33aeb9c8504a75ace,,,,,1.0,Buenos Aires,Ingeniero Maschwitz,,,0,2013-01-01,c
+1040,fa8863bcfa91eeff640f47c4e26edaef,,,,,1.0,Mendoza,Mendoza,,,0,2013-01-01,t
+1041,1955a79c70c33d7804041bec919dbfcb,,,,,1.0,,,,,0,2013-01-01,a
+1042,7b3e9e9084133915b4787a0ce7953dce,,,,,1.0,Cordoba,Cordoba,,,0,2013-01-01,t
+1043,63005a27e1722667a9f53ae3332721e6,,,,,1.0,Buenos aires,Zarate,,,0,2013-01-01,t
+1044,d890bd266446314500ec07a64600278a,,,,,1.0,Córdoba,Etruria,,,0,2013-01-01,t
+1046,0336ebb8a06471c5d34512d35a829faa,,,,,1.0,Santa Fe,Rosario Sud,,,0,2013-01-01,t
+1047,7252cf632d500c5ad77d32c17ac4618b,,,,,1.0,Chubut,Comodoro Rivadavia,,,0,2013-01-01,o
+1048,fb718c37d3d0d8e5a9fe39298101d2d0,,,,,1.0,Cordoba,Bell Ville,,,0,2013-01-01,c
+1049,647cc55f49161f0c31d9eb053f91347e,,,,,1.0,Neuquen,,,,0,2013-01-01,i
+1050,aaa4e43cb87ef1fb362be2440ed1f32e,,,,,1.0,San Juan,San Juan,,,0,2013-01-01,c
+1051,c31887f8abe4f4383b09a478605728b0,,,,,1.0,San Juan,San Juan,,,0,2013-01-01,i
+1052,bac5598abeeedcd6341c52621b7146d2,,,,,1.0,Santa Cruz,Rio Gallegos,,,0,2013-01-01,o
+1053,2a3bd341823cfce5db5b946a7d1e7ade,,,,,1.0,,,,,0,2013-01-01,o
+1054,2b008135e47ad802c3bacfa6ea8318d1,,,,,1.0,Cordoba,Santa Eufemia,,,0,2013-01-01,a
+1055,ec39c4f767ba5e594d1dab71b65f9a81,,,,,1.0,,,,,0,2013-01-01,o
+1056,61742b656a2af0bdd0c63f750a8222d9,,,,,1.0,SANTA CRUZ ,de Noviembre,,,0,2013-01-01,c
+1057,522985412c9eb3d2364385804af6ad3f,,,,,1.0,Córdoba,Justiniano Posse,,,0,2013-01-01,a
+1058,efe53376f31fb03de27e707afe08dcda,,,,,1.0,Santa Fe,San Agustin,,,0,2013-01-01,o
+1059,d519607b278c23060323e6e5812b6619,,,,,1.0,Santa Fe,Rufino,,,0,2013-01-01,c
+1060,ee1139b768bc2bf2d473e7d8341437ce,,,,,1.0,Mendoza,Rivadavia,,,0,2013-01-01,c
+1061,a0efb887f6229604772c9f5e794cd5e5,,,,,1.0,Buenos Aires,,,,0,2013-01-01,m
+1062,472ae9da7988e34b61f6be758d76ebab,,,,,1.0,Buenos Aires,Burzaco,,B1852,0,2013-01-01,t
+1063,b5459dfb85d139c55e797429b2e2e591,,,,,1.0,Cordoba,Sinsacate,,,0,2013-01-01,e
+1064,79b1a8bec8a4340df883b97ea7c57401,,,,,1.0,Corrientes,GOBERNADOR VIRASORO,,,0,2013-01-01,a
+1065,88cd4f4ad29be6642ffd237610500b24,,,,,1.0,Salta,Santa Rosa de los pastos grandes,,4411,0,2013-01-01,m
+1066,c48b09a0d9679b7c6c540e4016e9703d,,,,,1.0,Buenos Aires,José León Suárez,,,0,2013-01-01,t
+1067,64e1533e84978615277807a2fd135cf6,,,,,1.0,Buenos Aires,"Fátima, Parque Industrial Pilar",,,0,2013-01-01,i
+1068,6911fcbe35902cb5cebb4baf847a1164,,,,Costa Rica,,,,,,0,2013-01-01,c
+1069,5a5780ca4f6c836b64cfea6fcfeeb0aa,,,,,1.0,Buenos Aires,Campana,,,0,2013-01-01,t
+1071,84a56b4973cd85133aa942bf6fdef3fd,,,,,1.0,,,,,0,2013-01-01,o
+1072,d8fd4a731e2bcef1245689dfa764cb47,,,,,1.0,Salta,Salta,,,0,2013-01-01,c
+1073,8594062ea68c5e1f5fa5b976d1b54284,,,,Argentina,1.0,,,,,0,2013-01-01,o
+1074,ce07c80ef213b19383271fd9b80c184e,,,,,1.0,Buenos Aires,CABA,,,0,2013-01-01,a
+1075,375895084e7442c188628ed4f61494bc,,,,,1.0,Buenos Aires,Roque Perez,,,1,2013-01-01,c
+1076,47fa4ab8d433be92a83b881b4b073954,,,,,1.0,Cordoba,San Jose de la Dormida,,,0,2013-01-01,a
+1077,bb2c809bcd2056ea1f62273651491c03,,,,,1.0,Misiones,Obera,,,0,2013-01-01,a
+1078,bbbe0c06ab3498704aa92623c5998c3d,,,,,1.0,,,,,0,2013-01-01,c
+1079,99e0903277d59dad4c35eecb08044920,,,,,1.0,Buenos Aires,General Villegas,,,0,2013-01-01,a
+1081,433b2ede19346280c63fa74a5f3cf80c,,,,,1.0,Buenos Aires,CABA,,1043,0,2013-01-01,t
+1082,ce1d80a2dbc563f156e2fb2c63114a9c,,,,,1.0,Misiones,Aristóbulo del valle,,,0,2013-01-01,t
+1083,36e02d73f0aac935ba68ab5fff753da5,,,,,0.0,,,,,0,2013-01-01,i
